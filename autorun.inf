@@ -1,0 +1,5 @@
+[Autorun]
+Open=launch.bat
+Action=Start MyApp.
+Icon=drive.ico
+shell\open\command=launch.bat
